@@ -1,2 +1,2 @@
 # Kcompressor_
-Compression plugin
+Compression plugin<br>4X Oversampling
